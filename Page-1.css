@@ -32,7 +32,7 @@
 .u-section-1 .u-image-1 {width: 144px; height: 144px}
 .u-section-1 .u-layout-cell-2 {min-height: 198px}
 .u-section-1 .u-text-1 {width: 330px; font-size: 2.25rem; margin-right: 0}
-.u-section-1 .u-text-2 {font-size: 1.125rem; margin-top: 44px; margin-right: 0; width: auto} }body {
+.u-section-1 .u-text-2 {line-height: 1.8; font-size: 1.125rem; margin-top: 44px; margin-right: 0; width: auto} }body {
   background-color: #535353;
 }
 h1,h2,h3 {
